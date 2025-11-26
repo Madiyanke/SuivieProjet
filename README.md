@@ -54,7 +54,7 @@ Maven 3.8+ installé (ou utiliser le wrapper ./mvnw).
 
 git clone https://github.com/Madiyanke/SuivieProjet.git
 
-cd suiviprojet-backend
+cd Suiviprojet
 
 
 ### 2. Configuration
